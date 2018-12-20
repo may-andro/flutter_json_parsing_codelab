@@ -2,10 +2,9 @@
 
 A new Flutter application for codelab for json parsing.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## App Gif
+![demo](https://user-images.githubusercontent.com/16761273/49199359-685b9100-f3bd-11e8-9f3b-20520da71b86.gif)
 
 ## Follow the codelab
 https://docs.google.com/document/d/1sTRqnenUUMpaKBAkA0HZQJt7Mom0y5N1vBltQ_vrtNs/edit#heading=h.7sa4zxkhmsum
